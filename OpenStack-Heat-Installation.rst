@@ -75,7 +75,7 @@ Now we will add the Heat orchestration service ;)
     keystone user-create --name heat --pass service_pass
     keystone user-role-add --user heat --tenant service --role admin
 
-* Create heat_stack_owner role and give role to users (admin and demo) who create Heat stacks::
+* Create heat_stack_owner role and give it to users (admin and demo) who create Heat stacks::
 
     keystone role-create --name heat_stack_owner
 
