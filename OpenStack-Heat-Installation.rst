@@ -39,15 +39,11 @@ Let's Install it ;)
 Heat Install
 ============
 
-**To UPDATE**
 In our previous `OpenStack Juno installation guide <https://github.com/ChaimaGhribi/OpenStack-Juno-Installation/blob/master/OpenStack-Juno-Installation.rst>`_, we 've installed the basic services on the controller node.
 
 Now we will add the Heat orchestration service ;)
 
-
-**To UPDATE**
 .. image:: https://raw.githubusercontent.com/MarouenMechtri/Heat-Installation-for-OpenStack-Juno/master/images/controller-heat.jpg
-
 
 * Change to super user mode::
 
