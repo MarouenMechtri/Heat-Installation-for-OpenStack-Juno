@@ -46,7 +46,7 @@ Now we will add the Heat orchestration service ;)
 
 
 **To UPDATE**
-.. image:: https://raw.githubusercontent.com/MarouenMechtri/OpenStack-Heat-Installation/master/images/controller+heat.jpg
+.. image:: https://raw.githubusercontent.com/MarouenMechtri/Heat-Installation-for-OpenStack-Juno/master/images/controller-heat.jpg
 
 
 * Change to super user mode::
