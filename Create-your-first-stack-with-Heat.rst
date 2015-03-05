@@ -30,6 +30,8 @@ Detailed information on parameters and resource types are available on these lin
 
 Using the above information, let's create a simple Hot to deploy one server ;)
 
+* The template looks like this::
+
   heat_template_version: 2014-10-16
 
   description: A simple server.
