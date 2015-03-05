@@ -32,11 +32,11 @@ Using the above information, let's create a simple Hot to deploy one server ;)
 
 * The template looks like this::
 
-  heat_template_version: 2014-10-16
+ heat_template_version: 2014-10-16
+ 
+ description: A simple server.
 
-  description: A simple server.
-
-  parameters:
+ parameters:
    ImageID:
     type: string
     description: Image use to boot a server
@@ -44,7 +44,7 @@ Using the above information, let's create a simple Hot to deploy one server ;)
     type: string
     description: Network ID for the server
 
-  resources:
+ resources:
    server:
     type: OS::Nova::Server
     properties:
@@ -53,7 +53,7 @@ Using the above information, let's create a simple Hot to deploy one server ;)
      networks:
       - network: { get_param: NetID }
 
-  outputs:
+ outputs:
    private_ip:
     description: IP address of the server in the private network
     value: { get_attr: [ server, first_address ] }
