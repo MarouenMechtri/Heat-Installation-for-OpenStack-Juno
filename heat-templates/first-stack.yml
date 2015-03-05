@@ -9,7 +9,7 @@ parameters:
   NetID:
     type: string
     description: Network ID for the server
-	
+
 resources:
   server:
     type: OS::Nova::Server
