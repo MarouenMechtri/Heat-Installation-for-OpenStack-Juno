@@ -8,11 +8,14 @@ This document is based on `the OpenStack Official Documentation <http://docs.ope
 
 ===============================
 
-**Authors:**
 
-Copyright (C) `Marouen Mechtri <https://www.linkedin.com/in/mechtri>`_
+**Contributors:**
 
-Copyright (C) `Chaima Ghribi <https://www.linkedin.com/profile/view?id=53659267&trk=nav_responsive_tab_profile>`_
+Chaima Ghribi: chaima.ghribi@it-sudparis.eu
+
+Marouen Mechtri : marouen.mechtri@it-sudparis.eu
+
+Djamal Zeghlache : djamal.zeghlache@it-sudparis.eu
 
 ================================
 
@@ -195,6 +198,6 @@ in compliance with the License. You may obtain a copy of the License at::
 Contacts
 ========
 
-Marouen Mechtri : marouen.mechtri@it-sudparis.eu
+`Marouen Mechtri <https://www.linkedin.com/in/mechtri>`_: marouen.mechtri@it-sudparis.eu
 
-Chaima Ghribi: chaima.ghribi@it-sudparis.eu
+`Chaima Ghribi <https://www.linkedin.com/profile/view?id=53659267&trk=nav_responsive_tab_profile>`_: chaima.ghribi@it-sudparis.eu
