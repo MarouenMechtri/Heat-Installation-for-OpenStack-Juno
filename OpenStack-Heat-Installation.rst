@@ -168,7 +168,7 @@ Installation is too easy and quick but results are really great!
 
 If you want to create your first template with Heat, follow the instructions in our stack creation guide available here 
 
-`Create-First-Stack-with-Heat <https://github.com/MarouenMechtri/OpenStack-Heat-Installation/blob/master/Create-your-first-stack-with-Heat.rst>`_
+`Create-First-Stack-with-Heat <https://github.com/MarouenMechtri/Heat-Installation-for-OpenStack-Juno/blob/master/Create-your-first-stack-with-Heat.rst>`_
 
 License
 =======
