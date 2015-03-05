@@ -30,31 +30,31 @@ Detailed information on parameters and resource types are available on these lin
 
 Using the above information, let's create a simple Hot to deploy one server ;)
 
-  heat_template_version: 2014-10-16
+    heat_template_version: 2014-10-16
 
-  description: A simple server.
+    description: A simple server.
 
-  parameters:
-    ImageID:
-      type: string
-      description: Image use to boot a server
-    NetID:
-      type: string
-      description: Network ID for the server
-	
-  resources:
-    server:
-      type: OS::Nova::Server
-      properties:
-        image: { get_param: ImageID }
-        flavor: m1.tiny
-        networks:
-          - network: { get_param: NetID }
+    parameters:
+      ImageID:
+        type: string
+        description: Image use to boot a server
+      NetID:
+        type: string
+        description: Network ID for the server
 
-outputs:
-  private_ip:
-    description: IP address of the server in the private network
-    value: { get_attr: [ server, first_address ] }
+    resources:
+      server:
+        type: OS::Nova::Server
+        properties:
+          image: { get_param: ImageID }
+          flavor: m1.tiny
+          networks:
+            - network: { get_param: NetID }
+
+    outputs:
+      private_ip:
+        description: IP address of the server in the private network
+        value: { get_attr: [ server, first_address ] }
 
 
 Create your stack
