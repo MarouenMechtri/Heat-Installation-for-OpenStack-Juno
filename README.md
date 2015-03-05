@@ -19,4 +19,4 @@ The Installation guide is available here [OpenStack-Heat-Installation](https://g
 
 ![Heat image](https://raw.githubusercontent.com/MarouenMechtri/Heat-Installation-for-OpenStack-Juno/master/images/controller-heat.jpg)
 
-If you want to create your first template with Heat, follow the instructions in our stack creation guide available here [Create-First-Stack-with-Heat](https://github.com/MarouenMechtri/OpenStack-Heat-Installation/blob/master/Create-your-first-stack-with-Heat.rst). 
+If you want to create your first template with Heat, follow the instructions in our stack creation guide available here [Create-First-Stack-with-Heat](https://github.com/MarouenMechtri/Heat-Installation-for-OpenStack-Juno/blob/master/Create-your-first-stack-with-Heat.rst). 
