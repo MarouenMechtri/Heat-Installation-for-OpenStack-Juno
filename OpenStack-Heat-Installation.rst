@@ -198,6 +198,6 @@ in compliance with the License. You may obtain a copy of the License at::
 Contacts
 ========
 
-`Marouen Mechtri <https://www.linkedin.com/in/mechtri>`_: marouen.mechtri@it-sudparis.eu
+`Marouen Mechtri <fr.linkedin.com/in/mechtri>`_: marouen.mechtri@it-sudparis.eu
 
-`Chaima Ghribi <https://www.linkedin.com/profile/view?id=53659267&trk=nav_responsive_tab_profile>`_: chaima.ghribi@it-sudparis.eu
+`Chaima Ghribi <fr.linkedin.com/pub/chaima-ghribi/15/b78/997/>`_: chaima.ghribi@it-sudparis.eu
